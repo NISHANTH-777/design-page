@@ -1,0 +1,82 @@
+body {
+    background-image: url(img.jpg);
+    background-size: cover;
+}
+body h1 {
+    text-align: center;
+    font-size: 75px;
+    color: blue;
+}
+.places {
+    display:grid;
+    grid-template-columns: repeat(2 ,0fr);
+    column-gap: 250px;
+    margin: 10px 300px;
+}
+button{
+    margin-left: 90px;
+    background-color: azure;
+    border-radius: 50px;
+    block-size: 50px;
+    margin-bottom: 55px;
+    
+}
+.india1 {
+    margin-left: 120px;
+    color:rgb(255, 2, 2);
+   
+}
+.japan1 {
+    margin-left: 100px;
+    color:rgb(255, 2, 2);
+}
+.singapore1 {
+    margin-left: 60px;
+    color:rgb(255, 2, 2);
+}
+.malaysia1 {
+    margin-left: 75px;
+    color:rgb(255, 2, 2);
+}
+/* .india h2 {
+   margin-left: 225px;
+   margin-top: 50px;
+}
+.india h3 {
+    margin-left: 100px;
+}
+.india p {
+    margin-left: 200px;
+}
+.japan h2 {
+    margin-left: 225px;
+    margin-top: 50px;
+ }
+ .japan h3 {
+     margin-left: 100px;
+ }
+ .japan p {
+     margin-left: 200px;
+ }
+ .india h2 {
+    margin-left: 225px;
+    margin-top: 50px;
+ }
+ .india h3 {
+     margin-left: 100px;
+ }
+ .india p {
+     margin-left: 200px;
+ }
+ .india h2 {
+    margin-left: 225px;
+    margin-top: 50px;
+ }
+ .india h3 {
+     margin-left: 100px;
+ }
+ .india p {
+     margin-left: 200px;
+ }
+  
+  */
